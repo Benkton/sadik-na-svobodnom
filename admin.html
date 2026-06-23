@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Админ-панель — Садик на Свободном</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container main">
+    <section id="secretFail" class="panel hidden">
+      <h2>Страница не найдена</h2>
+      <p>Доступ к этому адресу ограничен.</p>
+      <a href="index.html" class="btn">На главную</a>
+    </section>
+
+    <section id="loginPanel" class="panel auth-panel hidden">
+      <h2>Вход</h2>
+      <div class="visually-hidden">
+        <label>Логин<input id="loginUser" type="text" value="admin"></label>
+        <label>Пароль<input id="loginPass" type="password" value="admin123"></label>
+      </div>
+      <button id="loginBtn" class="btn">Войти</button>
+    </section>
+
+    <section id="adminPanel" class="panel hidden">
+      <div class="panel-head">
+        <h2>Управление каталогом</h2>
+        <div class="actions">
+          <button id="addNewBtn" class="btn">Добавить новое растение</button>
+          <button id="logoutBtn" class="btn btn-secondary">Выйти</button>
+        </div>
+      </div>
+
+      <form id="plantForm" class="plant-form hidden">
+        <input type="hidden" id="plantId" />
+        <div class="form-grid">
+          <label>Название<input id="plantName" type="text" required></label>
+          <label>Категория<input id="plantCategory" type="text" placeholder="Например: Розы" required></label>
+          <label>Цена<input id="plantPrice" type="number" min="0" step="0.01" placeholder="0"></label>
+          <label>Фото файла<input id="plantPhotoFile" type="file" accept="image/*"></label>
+        </div>
+        <label>Описание<textarea id="plantDesc" rows="4"></textarea></label>
+        <div class="form-actions">
+          <button type="submit" class="btn">Сохранить</button>
+          <button type="button" id="cancelBtn" class="btn btn-secondary">Отмена</button>
+        </div>
+      </form>
+
+      <div id="adminList" class="admin-list"></div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Садик на Свободном</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="container hero__inner">
+      <div class="hero-text">
+        <p class="eyebrow">Совместная закупка и продажа растений</p>
+        <h1>Садик на Свободном</h1>
+        <p class="lead">С нами можно связаться в MAX и WhatsApp</p>
+
+        <div class="contact-grid">
+          <a class="contact-chip" href="tel:+79608546007">89608546007 <span>Екатерина</span></a>
+          <a class="contact-chip" href="tel:+79648863510">89648863510 <span>Татьяна</span></a>
+          <a class="contact-chip chip-link"
+             href="https://max.ru/join/zBUsfrz8tTYq5GkbVPEQCq9rHifbwbJgb22Gc0aA3NA"
+             target="_blank"
+             rel="noopener noreferrer">
+            Группа в Max
+          </a>
+        </div>
+      </div>
+
+      <div class="hero-image">
+        <img src="image.jpg" alt="Садик на Свободном" />
+        <div class="hero-image__caption">Садик на Свободном — растения, которые радуют глаз</div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container main">
+    <div class="toolbar">
+      <label class="search-wrap">
+        <span>Поиск по названию</span>
+        <input id="searchInput" type="search" placeholder="Например: тюльпан" />
+      </label>
+      <div id="countInfo" class="count-info"></div>
+    </div>
+
+    <div id="categoryBar" class="category-bar"></div>
+
+    <section id="catalog" class="catalog"></section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <p>Совместная закупка и продажа растений (Лилий, тюльпанов и др.)</p>
+      <p>Адрес: Г.Астрахань Новороссийская 37 с 9 до 19 (уточните)</p>
+      <p>Телефон: 89608546007</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
