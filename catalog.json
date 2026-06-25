@@ -3,40 +3,24 @@
     "id": 1,
     "name": "Роза",
     "category": "Цветы",
-    "description": "Красивый декоративный цветок для сада и букетов.",
+    "description": "Красивый декоративный цветок для сада.",
     "price": 250,
-    "photoUrl": "https://disk.yandex.ru/i/rlDmP1ym5C6wFg"
+    "photoUrl": "./images/1.jpg"
   },
   {
     "id": 2,
     "name": "Тюльпан",
     "category": "Цветы",
-    "description": "Нежный весенний цветок с яркими лепестками.",
+    "description": "Яркий весенний цветок.",
     "price": 120,
-    "photoUrl": "https://disk.yandex.ru/i/rlDmP1ym5C6wFg"
+    "photoUrl": "./images/2.jpg"
   },
   {
     "id": 3,
     "name": "Пион",
     "category": "Многолетники",
-    "description": "Пышный многолетний цветок для клумбы.",
+    "description": "Пышный многолетний цветок.",
     "price": 180,
-    "photoUrl": "https://disk.yandex.ru/i/rlDmP1ym5C6wFg"
-  },
-  {
-    "id": 4,
-    "name": "Лилия",
-    "category": "Цветы",
-    "description": "Элегантный цветок с приятным ароматом.",
-    "price": 200,
-    "photoUrl": "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https://disk.yandex.ru/i/rlDmP1ym5C6wFg"
-  },
-  {
-    "id": 5,
-    "name": "Хризантема",
-    "category": "Осенние цветы",
-    "description": "Яркое и долгоцветущее растение для осени.",
-    "price": 160,
-    "photoUrl": "https://disk.yandex.ru/i/rlDmP1ym5C6wFg"
+    "photoUrl": "./images/3.jpg"
   }
 ]
