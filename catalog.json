@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Роза",
     "category": "Цветы",
-    "description": "Красивый декоративный цветок для сада.",
+    "description": "Красивый декоративный цветок для сада и букетов.",
     "price": 250,
     "photoUrl": "./images/1.jpg"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Тюльпан",
     "category": "Цветы",
-    "description": "Яркий весенний цветок.",
+    "description": "Нежный весенний цветок с яркими лепестками.",
     "price": 120,
     "photoUrl": "./images/2.jpg"
   },
@@ -19,8 +19,24 @@
     "id": 3,
     "name": "Пион",
     "category": "Многолетники",
-    "description": "Пышный многолетний цветок.",
+    "description": "Пышный многолетний цветок для клумбы.",
     "price": 180,
     "photoUrl": "./images/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Лилия",
+    "category": "Цветы",
+    "description": "Элегантный цветок с приятным ароматом.",
+    "price": 200,
+    "photoUrl": "./images/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Хризантема",
+    "category": "Осенние цветы",
+    "description": "Яркое и долгоцветущее растение для осени.",
+    "price": 160,
+    "photoUrl": "./images/5.jpg"
   }
 ]

@@ -1,68 +1,185 @@
 <!doctype html>
 <html lang="ru">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Садик на Свободном</title>
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Каталог цветов</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      color: #222;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    h1 {
+      margin: 0 0 20px;
+      font-size: 28px;
+    }
+
+    .toolbar {
+      margin-bottom: 20px;
+    }
+
+    select {
+      padding: 10px 12px;
+      font-size: 16px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      background: #fff;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+    }
+
+    .card img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      display: block;
+      background: #eee;
+    }
+
+    .card-body {
+      padding: 14px;
+    }
+
+    .card h2 {
+      margin: 0 0 8px;
+      font-size: 18px;
+    }
+
+    .category {
+      font-size: 13px;
+      color: #666;
+      margin-bottom: 8px;
+    }
+
+    .desc {
+      font-size: 14px;
+      line-height: 1.4;
+      margin-bottom: 10px;
+    }
+
+    .price {
+      font-weight: bold;
+      font-size: 16px;
+      color: #0a7;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    .error {
+      padding: 16px;
+      background: #fff3cd;
+      border: 1px solid #ffeeba;
+      border-radius: 8px;
+      color: #856404;
+      margin-top: 16px;
+      display: none;
+    }
+  </style>
 </head>
 <body>
-  <header class="hero">
-    <div class="container hero__inner">
-      <div class="hero-text">
-        <div class="eyebrow">Совместная закупка и продажа растений</div>
-        <h1>Садик на<br>Свободном</h1>
-        <p class="lead">С нами можно связаться в MAX и WhatsApp</p>
+  <div class="container">
+    <h1>Каталог цветов</h1>
 
-        <div class="contact-grid">
-          <a class="contact-chip" href="tel:+79608546007">
-            <strong>89608546007</strong> <span>Екатерина</span>
-          </a>
-          <a class="contact-chip" href="tel:+79648863510">
-            <strong>89648863510</strong> <span>Татьяна</span>
-          </a>
-        </div>
-
-        <div style="margin-top:18px;">
-          <a class="btn" href="https://max.ru/join/zBUsfrz8tTYq5GkbVPEQCq9rHifbwbJgb22Gc0aA3NA" target="_blank" rel="noopener">
-            Группа в Max
-          </a>
-        </div>
-      </div>
-
-      <div class="hero-image">
-        <img src="images/garden-hero.jpg" alt="Сад с растениями">
-        <div class="hero-image__caption">Садик на Свободном — растения, которые радуют глаз</div>
-      </div>
+    <div class="toolbar">
+      <select id="categoryFilter">
+        <option value="all">Все категории</option>
+      </select>
     </div>
-  </header>
 
-  <main class="main">
-    <div class="container">
-      <section class="toolbar">
-        <div class="search-wrap">
-          <label for="searchInput">Поиск по названию</label>
-          <input id="searchInput" type="text" placeholder="Например: тюльпан">
-        </div>
+    <div id="catalog" class="cards"></div>
+    <div id="error" class="error"></div>
+  </div>
 
-        <div class="count-info" id="countInfo"></div>
-      </section>
+  <script>
+    let allProducts = [];
 
-      <section class="category-bar" id="categoryBar"></section>
+    function renderCards(products) {
+      const catalog = document.getElementById('catalog');
+      catalog.innerHTML = '';
 
-      <p class="section-note">Совместная закупка и продажа растений (Лилий, тюльпанов и др.)</p>
+      products.forEach(product => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.dataset.category = product.category;
 
-      <section id="catalog" class="catalog"></section>
-    </div>
-  </main>
+        card.innerHTML = `
+          <img src="${product.photoUrl}" alt="${product.name}">
+          <div class="card-body">
+            <h2>${product.name}</h2>
+            <div class="category">${product.category}</div>
+            <div class="desc">${product.description}</div>
+            <div class="price">${product.price} ₽</div>
+          </div>
+        `;
 
-  <footer class="footer">
-    <div class="container footer__inner">
-      <div>Контакты г.Астрахань Новороссийская 37 с 9 до 19 (уточните)</div>
-      <div>Телефон 8908546007</div>
-    </div>
-  </footer>
+        catalog.appendChild(card);
+      });
+    }
 
-  <script type="module" src="app.js"></script>
+    function renderCategories(products) {
+      const select = document.getElementById('categoryFilter');
+      const categories = [...new Set(products.map(item => item.category))];
+
+      categories.forEach(category => {
+        const option = document.createElement('option');
+        option.value = category;
+        option.textContent = category;
+        select.appendChild(option);
+      });
+    }
+
+    function applyFilter() {
+      const selected = document.getElementById('categoryFilter').value;
+      const cards = document.querySelectorAll('.card');
+
+      cards.forEach(card => {
+        const match = selected === 'all' || card.dataset.category === selected;
+        card.classList.toggle('hidden', !match);
+      });
+    }
+
+    async function loadCatalog() {
+      try {
+        const res = await fetch('./catalog.json?v=' + Date.now());
+        if (!res.ok) throw new Error('Не удалось загрузить catalog.json');
+
+        allProducts = await res.json();
+
+        renderCategories(allProducts);
+        renderCards(allProducts);
+        applyFilter();
+
+        document.getElementById('categoryFilter').addEventListener('change', applyFilter);
+      } catch (err) {
+        const errorBox = document.getElementById('error');
+        errorBox.style.display = 'block';
+        errorBox.textContent = 'Ошибка: ' + err.message;
+      }
+    }
+
+    loadCatalog();
+  </script>
 </body>
 </html>
