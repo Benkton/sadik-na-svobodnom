@@ -1,26 +1,42 @@
 [
   {
-	"id": 6,
-	"name": "Пион",
-	"category": "Многолетники",
-	"description": "Красивый многолетний цветок для сада и клумбы.",
-	"price": 180,
-	"photoUrl": "https://downloader.disk.yandex.ru/preview/6f7bfd861fc4171024edea24e9914a2e72bbfd6b21445a64419acc9d60cd1030/6a3daa65/2ussRMAF_ZBH93YY5LvrUXnjIyevteUPvgXorC4djhH8B5E0nrU9OMB-H0aAgl14BRv3CdSgOfl-LbqYNVC2Kw%3D%3D?uid=0&filename=1.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v3&is_direct_zip_experiment=1&size=2048x2048"
+    "id": 1,
+    "name": "Роза",
+    "category": "Цветы",
+    "description": "Красивый декоративный цветок для сада и букетов.",
+    "price": 250,
+    "photoUrl": "https://disk.yandex.ru/i/rlDmP1ym5C6wFg"
   },
   {
     "id": 2,
-    "name": "Лилия",
-    "category": "Лилии",
-    "description": "Красивые многолетние цветы для участка.",
+    "name": "Тюльпан",
+    "category": "Цветы",
+    "description": "Нежный весенний цветок с яркими лепестками.",
     "price": 120,
-    "photoUrl": "https://placehold.co/800x600?text=%D0%9B%D0%B8%D0%BB%D0%B8%D1%8F"
+    "photoUrl": "https://disk.yandex.ru/i/rlDmP1ym5C6wFg"
   },
   {
     "id": 3,
-    "name": "Роза",
-    "category": "Розы",
-    "description": "Подходит для клумб и одиночных посадок.",
-    "price": 150,
-    "photoUrl": "https://placehold.co/800x600?text=%D0%A0%D0%BE%D0%B7%D0%B0"
+    "name": "Пион",
+    "category": "Многолетники",
+    "description": "Пышный многолетний цветок для клумбы.",
+    "price": 180,
+    "photoUrl": "https://disk.yandex.ru/i/rlDmP1ym5C6wFg"
+  },
+  {
+    "id": 4,
+    "name": "Лилия",
+    "category": "Цветы",
+    "description": "Элегантный цветок с приятным ароматом.",
+    "price": 200,
+    "photoUrl": "https://disk.yandex.ru/i/rlDmP1ym5C6wFg"
+  },
+  {
+    "id": 5,
+    "name": "Хризантема",
+    "category": "Осенние цветы",
+    "description": "Яркое и долгоцветущее растение для осени.",
+    "price": 160,
+    "photoUrl": "https://disk.yandex.ru/i/rlDmP1ym5C6wFg"
   }
 ]
