@@ -1,11 +1,11 @@
 [
   {
-    "id": 1,
-    "name": "Тюльпан",
-    "category": "Тюльпаны",
-    "description": "Весенние луковицы для клумбы и сада.",
-    "price": 35,
-    "photoUrl": "https://disk.yandex.ru/i/rlDmP1ym5C6wFg"
+	"id": 6,
+	"name": "Пион",
+	"category": "Многолетники",
+	"description": "Красивый многолетний цветок для сада и клумбы.",
+	"price": 180,
+	"photoUrl": "https://downloader.disk.yandex.ru/preview/6f7bfd861fc4171024edea24e9914a2e72bbfd6b21445a64419acc9d60cd1030/6a3daa65/2ussRMAF_ZBH93YY5LvrUXnjIyevteUPvgXorC4djhH8B5E0nrU9OMB-H0aAgl14BRv3CdSgOfl-LbqYNVC2Kw%3D%3D?uid=0&filename=1.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v3&is_direct_zip_experiment=1&size=2048x2048"
   },
   {
     "id": 2,
