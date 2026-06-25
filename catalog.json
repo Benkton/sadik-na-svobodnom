@@ -29,7 +29,7 @@
     "category": "Цветы",
     "description": "Элегантный цветок с приятным ароматом.",
     "price": 200,
-    "photoUrl": "https://disk.yandex.ru/i/rlDmP1ym5C6wFg"
+    "photoUrl": "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https://disk.yandex.ru/i/rlDmP1ym5C6wFg"
   },
   {
     "id": 5,
