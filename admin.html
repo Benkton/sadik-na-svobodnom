@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Админка — Садик на Свободном</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="main">
+    <div class="container">
+      <div class="panel">
+        <div class="panel-head">
+          <div>
+            <div class="eyebrow">Админ-панель</div>
+            <h1 style="margin-bottom:0;">Редактор каталога</h1>
+          </div>
+
+          <div class="item-actions">
+            <button id="addItemBtn" class="btn">Добавить товар</button>
+            <button id="downloadBtn" class="btn btn-secondary">Скачать JSON</button>
+            <label class="btn btn-secondary" for="fileInput" style="cursor:pointer;">
+              Загрузить JSON
+            </label>
+            <input id="fileInput" type="file" accept=".json" hidden>
+          </div>
+        </div>
+
+        <div class="admin-list" id="adminList"></div>
+      </div>
+    </div>
+  </main>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
