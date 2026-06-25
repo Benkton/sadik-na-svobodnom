@@ -11,15 +11,12 @@
       --text: #222;
       --muted: #667085;
       --primary: #4f46e5;
-      --primary-hover: #4338ca;
       --border: #e5e7eb;
       --shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
       --green: #059669;
     }
 
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
 
     body {
       margin: 0;
@@ -42,14 +39,6 @@
       box-shadow: var(--shadow);
       padding: 20px;
       margin-bottom: 22px;
-    }
-
-    .brand {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      gap: 16px;
-      flex-wrap: wrap;
     }
 
     h1 {
@@ -87,7 +76,6 @@
 
     .toolbar {
       display: flex;
-      justify-content: space-between;
       align-items: center;
       gap: 12px;
       flex-wrap: wrap;
@@ -166,9 +154,7 @@
       color: var(--green);
     }
 
-    .hidden {
-      display: none;
-    }
+    .hidden { display: none; }
 
     .error {
       padding: 16px;
@@ -207,18 +193,8 @@
     }
 
     @media (max-width: 640px) {
-      h1 {
-        font-size: 24px;
-      }
-
-      select {
-        width: 100%;
-      }
-
-      .toolbar {
-        align-items: stretch;
-      }
-
+      h1 { font-size: 24px; }
+      select { width: 100%; }
       .contact-link {
         width: 100%;
         justify-content: center;
@@ -229,15 +205,10 @@
 <body>
   <div class="container">
     <header class="topbar">
-      <div class="brand">
-        <div>
-          <h1>Садик на свободном</h1>
-        </div>
-      </div>
+      <h1>Садик на свободном</h1>
 
       <div class="contacts">
         <a class="contact-link" href="https://max.ru/join/zBUsfrz8tTYq5GkbVPEQCq9rHifbwbJgb22Gc0aA3NA" target="_blank">Группа в MAX</a>
-        <a class="contact-link" href="https://t.me/your_group" target="_blank">Telegram группа</a>
         <a class="contact-link" href="tel:+89608546007">89608546007 Екатерина</a>
         <a class="contact-link" href="tel:+89648863510">89648863510 Татьяна</a>
       </div>
@@ -312,11 +283,9 @@
         if (!res.ok) throw new Error('Не удалось загрузить catalog.json');
 
         const products = await res.json();
-
         renderCategories(products);
         renderCards(products);
         applyFilter();
-
         document.getElementById('categoryFilter').addEventListener('change', applyFilter);
       } catch (err) {
         const errorBox = document.getElementById('error');
