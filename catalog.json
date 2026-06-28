@@ -22,5 +22,13 @@
     "description": "Элегантный цветок с приятным ароматом.",
     "price": 200,
     "photoUrl": "./images/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "123",
+    "category": "123",
+    "description": "",
+    "price": 123,
+    "photoUrl": "./images/2.jpg"
   }
 ]
