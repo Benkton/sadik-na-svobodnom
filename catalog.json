@@ -2,7 +2,7 @@
   {
     "id": 2,
     "name": "Обдам",
-    "category": "Розы",
+    "category": "Нарциссы",
     "description": "Классический декоративный цветок.",
     "price": 250,
     "photoUrl": "./images/2.jpg"
@@ -10,7 +10,7 @@
   {
     "id": 4,
     "name": "Долли молингер",
-    "category": "4",
+    "category": "Нарциссы",
     "description": "",
     "price": 4,
     "photoUrl": "./images/4.jpg"
@@ -18,7 +18,7 @@
   {
     "id": 5,
     "name": "Барет",
-    "category": "5",
+    "category": "Нарциссы",
     "description": "",
     "price": 5,
     "photoUrl": "./images/5.jpg"
@@ -26,7 +26,7 @@
   {
     "id": 6,
     "name": "Replete",
-    "category": "6",
+    "category": "Нарциссы",
     "description": "",
     "price": 6,
     "photoUrl": "./images/6.jpg"
@@ -34,7 +34,7 @@
   {
     "id": 7,
     "name": "Елоу Паррот",
-    "category": "7",
+    "category": "Нарциссы",
     "description": "",
     "price": 7,
     "photoUrl": "./images/7.jpg"
@@ -42,7 +42,7 @@
   {
     "id": 8,
     "name": "Dick Wilden",
-    "category": "8",
+    "category": "Нарциссы",
     "description": "",
     "price": 8,
     "photoUrl": "./images/8.jpg"
@@ -50,7 +50,7 @@
   {
     "id": 9,
     "name": "Ice king",
-    "category": "9",
+    "category": "Нарциссы",
     "description": "",
     "price": 9,
     "photoUrl": "./images/9.jpg"
@@ -58,7 +58,7 @@
   {
     "id": 10,
     "name": "Лав колл",
-    "category": "10",
+    "category": "Нарциссы",
     "description": "",
     "price": 1,
     "photoUrl": "./images/10.jpg"
@@ -66,7 +66,7 @@
   {
     "id": 11,
     "name": "Палмарес",
-    "category": "11",
+    "category": "Нарциссы",
     "description": "",
     "price": 11,
     "photoUrl": "./images/11.jpg"
@@ -74,7 +74,7 @@
   {
     "id": 12,
     "name": "Обдам",
-    "category": "12",
+    "category": "Нарциссы",
     "description": "",
     "price": 12,
     "photoUrl": "./images/12.jpg"
@@ -82,7 +82,7 @@
   {
     "id": 13,
     "name": "Тахити",
-    "category": "13",
+    "category": "Мускари",
     "description": "",
     "price": 13,
     "photoUrl": "./images/13.jpg"
@@ -90,7 +90,7 @@
   {
     "id": 14,
     "name": "Пинк Санрайз",
-    "category": "14",
+    "category": "Мускари",
     "description": "",
     "price": 14,
     "photoUrl": "./images/14.jpg"
@@ -98,7 +98,7 @@
   {
     "id": 15,
     "name": "Азуреум",
-    "category": "15",
+    "category": "Мускари",
     "description": "",
     "price": 15,
     "photoUrl": "./images/15.jpg"
@@ -106,7 +106,7 @@
   {
     "id": 16,
     "name": "Сибирский тигр",
-    "category": "16",
+    "category": "Мускари",
     "description": "",
     "price": 16,
     "photoUrl": "./images/16.jpg"
@@ -114,7 +114,7 @@
   {
     "id": 17,
     "name": "Фловер рекорд",
-    "category": "17",
+    "category": "Крокусы",
     "description": "",
     "price": 17,
     "photoUrl": "./images/17.jpg"
@@ -122,7 +122,7 @@
   {
     "id": 18,
     "name": "Ремембер",
-    "category": "18",
+    "category": "Крокусы",
     "description": "",
     "price": 18,
     "photoUrl": "./images/18.jpg"
@@ -130,7 +130,7 @@
   {
     "id": 19,
     "name": "Еллоу",
-    "category": "19",
+    "category": "Крокусы",
     "description": "",
     "price": 19,
     "photoUrl": "./images/19.jpg"
@@ -138,7 +138,7 @@
   {
     "id": 20,
     "name": "Пиквик",
-    "category": "20",
+    "category": "Крокусы",
     "description": "",
     "price": 20,
     "photoUrl": "./images/20.jpg"
@@ -146,7 +146,7 @@
   {
     "id": 21,
     "name": "Пинк пепл",
-    "category": "21",
+    "category": "Гиацинты",
     "description": "",
     "price": 21,
     "photoUrl": "./images/21.jpg"
@@ -154,7 +154,7 @@
   {
     "id": 22,
     "name": "Вудсток",
-    "category": "22",
+    "category": "Гиацинты",
     "description": "",
     "price": 22,
     "photoUrl": "./images/22.jpg"
@@ -162,7 +162,7 @@
   {
     "id": 23,
     "name": "Дельт блю",
-    "category": "23",
+    "category": "Гиацинты",
     "description": "",
     "price": 23,
     "photoUrl": "./images/23.jpg"
@@ -170,7 +170,7 @@
   {
     "id": 24,
     "name": "Ян босс",
-    "category": "24",
+    "category": "Гиацинты",
     "description": "",
     "price": 24,
     "photoUrl": "./images/24.jpg"
@@ -178,7 +178,7 @@
   {
     "id": 25,
     "name": "Чайна пинк",
-    "category": "25",
+    "category": "Гиацинты",
     "description": "",
     "price": 25,
     "photoUrl": "./images/25.jpg"
@@ -186,7 +186,7 @@
   {
     "id": 26,
     "name": "Блю стар",
-    "category": "26",
+    "category": "Гиацинты",
     "description": "",
     "price": 26,
     "photoUrl": "./images/26.jpg"
@@ -194,7 +194,7 @@
   {
     "id": 27,
     "name": "Пурпл",
-    "category": "27",
+    "category": "Гиацинты",
     "description": "",
     "price": 27,
     "photoUrl": "./images/27.jpg"
@@ -202,7 +202,7 @@
   {
     "id": 28,
     "name": "Вайт перл",
-    "category": "28",
+    "category": "Гиацинты",
     "description": "",
     "price": 28,
     "photoUrl": "./images/28.jpg"
@@ -210,7 +210,7 @@
   {
     "id": 29,
     "name": "Елоу квин",
-    "category": "29",
+    "category": "Гиацинты",
     "description": "",
     "price": 29,
     "photoUrl": "./images/29.jpg"
@@ -218,7 +218,7 @@
   {
     "id": 30,
     "name": "Джипси квин",
-    "category": "30",
+    "category": "Гиацинты",
     "description": "",
     "price": 30,
     "photoUrl": "./images/30.jpg"
@@ -226,7 +226,7 @@
   {
     "id": 31,
     "name": "Гринвейв",
-    "category": "31",
+    "category": "Тюльпаны попугайные",
     "description": "",
     "price": 31,
     "photoUrl": "./images/31.jpg"
@@ -234,7 +234,7 @@
   {
     "id": 32,
     "name": "Нигрито парет",
-    "category": "32",
+    "category": "Тюльпаны попугайные",
     "description": "",
     "price": 32,
     "photoUrl": "./images/32.jpg"
@@ -242,7 +242,7 @@
   {
     "id": 33,
     "name": "Блю Перрот",
-    "category": "33",
+    "category": "Тюльпаны попугайные",
     "description": "",
     "price": 33,
     "photoUrl": "./images/33.jpg"
@@ -250,7 +250,7 @@
   {
     "id": 34,
     "name": "Либретто",
-    "category": "34",
+    "category": "Тюльпаны попугайные",
     "description": "",
     "price": 34,
     "photoUrl": "./images/34.jpg"
@@ -258,7 +258,7 @@
   {
     "id": 35,
     "name": "Ла куртин",
-    "category": "35",
+    "category": "Тюльпаны попугайные",
     "description": "",
     "price": 35,
     "photoUrl": "./images/35.jpg"
@@ -266,7 +266,7 @@
   {
     "id": 36,
     "name": "Парет кинг",
-    "category": "36",
+    "category": "Тюльпаны попугайные",
     "description": "",
     "price": 36,
     "photoUrl": "./images/36.jpg"
@@ -274,7 +274,7 @@
   {
     "id": 37,
     "name": "Веберс",
-    "category": "37",
+    "category": "Тюльпаны попугайные",
     "description": "",
     "price": 37,
     "photoUrl": "./images/37.jpg"
@@ -282,7 +282,7 @@
   {
     "id": 38,
     "name": "Игл винкс",
-    "category": "38",
+    "category": "Тюльпаны попугайные",
     "description": "",
     "price": 38,
     "photoUrl": "./images/38.jpg"
@@ -290,7 +290,7 @@
   {
     "id": 39,
     "name": "Холланд",
-    "category": "39",
+    "category": "Тюльпаны попугайные",
     "description": "",
     "price": 39,
     "photoUrl": "./images/39.jpg"
@@ -298,7 +298,7 @@
   {
     "id": 40,
     "name": "Рококо",
-    "category": "40",
+    "category": "Тюльпаны попугайные",
     "description": "",
     "price": 40,
     "photoUrl": "./images/40.jpg"
@@ -306,7 +306,7 @@
   {
     "id": 41,
     "name": "Вайт ребер",
-    "category": "41",
+    "category": "Тюльпаны",
     "description": "",
     "price": 41,
     "photoUrl": "./images/41.jpg"
@@ -314,7 +314,7 @@
   {
     "id": 42,
     "name": "Фроз найт",
-    "category": "42",
+    "category": "Тюльпаны",
     "description": "",
     "price": 42,
     "photoUrl": "./images/42.jpg"
@@ -322,7 +322,7 @@
   {
     "id": 43,
     "name": "Вайт либерстар",
-    "category": "43",
+    "category": "Тюльпаны",
     "description": "",
     "price": 43,
     "photoUrl": "./images/43.jpg"
@@ -330,7 +330,7 @@
   {
     "id": 44,
     "name": "Мари джо",
-    "category": "44",
+    "category": "Тюльпаны",
     "description": "",
     "price": 44,
     "photoUrl": "./images/44.jpg"
@@ -338,7 +338,7 @@
   {
     "id": 45,
     "name": "Марьяж",
-    "category": "45",
+    "category": "Тюльпаны",
     "description": "",
     "price": 45,
     "photoUrl": "./images/45.jpg"
@@ -346,7 +346,7 @@
   {
     "id": 46,
     "name": "Перпл кристалл",
-    "category": "46",
+    "category": "Тюльпаны",
     "description": "",
     "price": 46,
     "photoUrl": "./images/46.jpg"
@@ -354,7 +354,7 @@
   {
     "id": 47,
     "name": "Верона",
-    "category": "47",
+    "category": "Тюльпаны",
     "description": "",
     "price": 47,
     "photoUrl": "./images/47.jpg"
@@ -362,7 +362,7 @@
   {
     "id": 48,
     "name": "Мондиаль",
-    "category": "48",
+    "category": "Тюльпаны",
     "description": "",
     "price": 48,
     "photoUrl": "./images/48.jpg"
@@ -370,7 +370,7 @@
   {
     "id": 49,
     "name": "Престо",
-    "category": "49",
+    "category": "Тюльпаны",
     "description": "",
     "price": 49,
     "photoUrl": "./images/49.jpg"
@@ -378,7 +378,7 @@
   {
     "id": 50,
     "name": "Версаче",
-    "category": "50",
+    "category": "Тюльпаны",
     "description": "",
     "price": 50,
     "photoUrl": "./images/50.jpg"
@@ -386,7 +386,7 @@
   {
     "id": 51,
     "name": "Нью санта",
-    "category": "51",
+    "category": "Тюльпаны",
     "description": "",
     "price": 51,
     "photoUrl": "./images/51.jpg"
@@ -394,7 +394,7 @@
   {
     "id": 52,
     "name": "Маргарита",
-    "category": "52",
+    "category": "Тюльпаны",
     "description": "",
     "price": 52,
     "photoUrl": "./images/52.jpg"
@@ -402,7 +402,7 @@
   {
     "id": 53,
     "name": "Дример",
-    "category": "53",
+    "category": "Тюльпаны",
     "description": "",
     "price": 53,
     "photoUrl": "./images/53.jpg"
@@ -410,7 +410,7 @@
   {
     "id": 54,
     "name": "Дабл прайс",
-    "category": "54",
+    "category": "Тюльпаны",
     "description": "",
     "price": 54,
     "photoUrl": "./images/54.jpg"
@@ -418,7 +418,7 @@
   {
     "id": 55,
     "name": "Линджери",
-    "category": "55",
+    "category": "Тюльпаны",
     "description": "",
     "price": 55,
     "photoUrl": "./images/55.jpg"
@@ -426,7 +426,7 @@
   {
     "id": 56,
     "name": "Ферст прайс",
-    "category": "56",
+    "category": "Тюльпаны",
     "description": "",
     "price": 56,
     "photoUrl": "./images/56.jpg"
@@ -434,7 +434,7 @@
   {
     "id": 57,
     "name": "Коламбус",
-    "category": "57",
+    "category": "Тюльпаны",
     "description": "",
     "price": 57,
     "photoUrl": "./images/57.jpg"
@@ -442,7 +442,7 @@
   {
     "id": 58,
     "name": "Ларго",
-    "category": "58",
+    "category": "Тюльпаны",
     "description": "",
     "price": 58,
     "photoUrl": "./images/58.jpg"
@@ -450,7 +450,7 @@
   {
     "id": 59,
     "name": "Фабио",
-    "category": "59",
+    "category": "Тюльпаны",
     "description": "",
     "price": 59,
     "photoUrl": "./images/59.jpg"
@@ -458,7 +458,7 @@
   {
     "id": 60,
     "name": "Кастелла",
-    "category": "60",
+    "category": "Тюльпаны",
     "description": "",
     "price": 60,
     "photoUrl": "./images/60.jpg"
@@ -466,7 +466,7 @@
   {
     "id": 61,
     "name": "Каденза",
-    "category": "61",
+    "category": "Тюльпаны",
     "description": "",
     "price": 61,
     "photoUrl": "./images/61.jpg"
@@ -474,7 +474,7 @@
   {
     "id": 62,
     "name": "Авангард",
-    "category": "62",
+    "category": "Тюльпаны",
     "description": "",
     "price": 62,
     "photoUrl": "./images/62.jpg"
@@ -482,7 +482,7 @@
   {
     "id": 63,
     "name": "Тайм аут",
-    "category": "63",
+    "category": "Тюльпаны",
     "description": "",
     "price": 63,
     "photoUrl": "./images/63.jpg"
@@ -490,7 +490,7 @@
   {
     "id": 64,
     "name": "Бриндизи",
-    "category": "64",
+    "category": "Тюльпаны",
     "description": "",
     "price": 64,
     "photoUrl": "./images/64.jpg"
@@ -498,7 +498,7 @@
   {
     "id": 65,
     "name": "Мангошарм",
-    "category": "65",
+    "category": "Тюльпаны",
     "description": "",
     "price": 65,
     "photoUrl": "./images/65.jpg"
@@ -506,7 +506,7 @@
   {
     "id": 66,
     "name": "Трипл а",
-    "category": "66",
+    "category": "Тюльпаны",
     "description": "",
     "price": 66,
     "photoUrl": "./images/66.jpg"
@@ -514,7 +514,7 @@
   {
     "id": 67,
     "name": "Лаптоп",
-    "category": "67",
+    "category": "Тюльпаны",
     "description": "",
     "price": 67,
     "photoUrl": "./images/67.jpg"
@@ -522,7 +522,7 @@
   {
     "id": 68,
     "name": "Перпл принц",
-    "category": "68",
+    "category": "Тюльпаны",
     "description": "",
     "price": 68,
     "photoUrl": "./images/68.jpg"
@@ -530,7 +530,7 @@
   {
     "id": 70,
     "name": "Вайт принц",
-    "category": "70",
+    "category": "Тюльпаны",
     "description": "",
     "price": 70,
     "photoUrl": "./images/70.jpg"
@@ -538,7 +538,7 @@
   {
     "id": 71,
     "name": "Стронг голд",
-    "category": "71",
+    "category": "Тюльпаны",
     "description": "",
     "price": 71,
     "photoUrl": "./images/71.jpg"
@@ -546,7 +546,7 @@
   {
     "id": 72,
     "name": "Стронг лав",
-    "category": "72",
+    "category": "Тюльпаны",
     "description": "",
     "price": 72,
     "photoUrl": "./images/72.jpg"
@@ -554,7 +554,7 @@
   {
     "id": 73,
     "name": "Парадеро",
-    "category": "73",
+    "category": "Тюльпаны",
     "description": "",
     "price": 73,
     "photoUrl": "./images/73.jpg"
@@ -562,7 +562,7 @@
   {
     "id": 74,
     "name": "Кунгфу",
-    "category": "74",
+    "category": "Тюльпаны",
     "description": "",
     "price": 74,
     "photoUrl": "./images/74.jpg"
@@ -570,7 +570,7 @@
   {
     "id": 75,
     "name": "Карри",
-    "category": "75",
+    "category": "Тюльпаны",
     "description": "",
     "price": 75,
     "photoUrl": "./images/75.jpg"
@@ -578,7 +578,7 @@
   {
     "id": 76,
     "name": "Фортресс",
-    "category": "76",
+    "category": "Тюльпаны",
     "description": "",
     "price": 76,
     "photoUrl": "./images/76.jpg"
@@ -586,7 +586,7 @@
   {
     "id": 77,
     "name": "Алиби",
-    "category": "77",
+    "category": "Тюльпаны",
     "description": "",
     "price": 77,
     "photoUrl": "./images/77.jpg"
@@ -594,7 +594,7 @@
   {
     "id": 78,
     "name": "Мемфис",
-    "category": "78",
+    "category": "Тюльпаны",
     "description": "",
     "price": 78,
     "photoUrl": "./images/78.jpg"
@@ -602,7 +602,7 @@
   {
     "id": 79,
     "name": "Камалия",
-    "category": "79",
+    "category": "Тюльпаны",
     "description": "",
     "price": 79,
     "photoUrl": "./images/79.jpg"
@@ -610,7 +610,7 @@
   {
     "id": 80,
     "name": "Авокадо",
-    "category": "80",
+    "category": "Тюльпаны",
     "description": "",
     "price": 80,
     "photoUrl": "./images/80.jpg"
@@ -618,7 +618,7 @@
   {
     "id": 81,
     "name": "Веранди",
-    "category": "81",
+    "category": "Тюльпаны",
     "description": "",
     "price": 81,
     "photoUrl": "./images/81.jpg"
@@ -626,7 +626,7 @@
   {
     "id": 82,
     "name": "Оранж романтика",
-    "category": "82",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 82,
     "photoUrl": "./images/82.jpg"
@@ -634,7 +634,7 @@
   {
     "id": 82,
     "name": "Тоффи",
-    "category": "83",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 83,
     "photoUrl": "./images/83.jpg"
@@ -642,7 +642,7 @@
   {
     "id": 84,
     "name": "Испания",
-    "category": "84",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 84,
     "photoUrl": "./images/84.jpg"
@@ -650,7 +650,7 @@
   {
     "id": 85,
     "name": "Травиата",
-    "category": "85",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 85,
     "photoUrl": "./images/85.jpg"
@@ -658,7 +658,7 @@
   {
     "id": 86,
     "name": "Дольчетто",
-    "category": "86",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 86,
     "photoUrl": "./images/86.jpg"
@@ -666,7 +666,7 @@
   {
     "id": 87,
     "name": "Пимс",
-    "category": "87",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 87,
     "photoUrl": "./images/87.jpg"
@@ -674,7 +674,7 @@
   {
     "id": 88,
     "name": "Хартс",
-    "category": "88",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 88,
     "photoUrl": "./images/88.jpg"
@@ -682,7 +682,7 @@
   {
     "id": 89,
     "name": "Шаде оф грей",
-    "category": "89",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 89,
     "photoUrl": "./images/89.jpg"
@@ -690,7 +690,7 @@
   {
     "id": 90,
     "name": "Афродита",
-    "category": "90",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 90,
     "photoUrl": "./images/90.jpg"
@@ -698,7 +698,7 @@
   {
     "id": 91,
     "name": "Джумилия",
-    "category": "91",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 91,
     "photoUrl": "./images/91.jpg"
@@ -706,7 +706,7 @@
   {
     "id": 92,
     "name": "Фрутетто",
-    "category": "92",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 92,
     "photoUrl": "./images/92.jpg"
@@ -714,7 +714,7 @@
   {
     "id": 93,
     "name": "Мандала",
-    "category": "93",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 93,
     "photoUrl": "./images/93.jpg"
@@ -722,7 +722,7 @@
   {
     "id": 94,
     "name": "Унфоргетабле",
-    "category": "94",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 94,
     "photoUrl": "./images/94.jpg"
@@ -730,7 +730,7 @@
   {
     "id": 95,
     "name": "Блек бакара",
-    "category": "95",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 95,
     "photoUrl": "./images/95.jpg"
@@ -738,7 +738,7 @@
   {
     "id": 96,
     "name": "Вестминское аббатсво",
-    "category": "96",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 96,
     "photoUrl": "./images/96.jpg"
@@ -746,7 +746,7 @@
   {
     "id": 97,
     "name": "Кампанелла",
-    "category": "97",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 97,
     "photoUrl": "./images/97.jpg"
@@ -754,7 +754,7 @@
   {
     "id": 98,
     "name": "Симпли джорджиус",
-    "category": "98",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 98,
     "photoUrl": "./images/98.jpg"
@@ -762,7 +762,7 @@
   {
     "id": 99,
     "name": "Эшли вайт",
-    "category": "99",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 99,
     "photoUrl": "./images/99.jpg"
@@ -770,7 +770,7 @@
   {
     "id": 100,
     "name": "Джалита",
-    "category": "100",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 100,
     "photoUrl": "./images/100.jpg"
@@ -778,7 +778,7 @@
   {
     "id": 101,
     "name": "Мадемуазелл мейян",
-    "category": "101",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 101,
     "photoUrl": "./images/101.jpg"
@@ -786,7 +786,7 @@
   {
     "id": 102,
     "name": "Ред майра",
-    "category": "102",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 102,
     "photoUrl": "./images/102.jpg"
@@ -794,7 +794,7 @@
   {
     "id": 103,
     "name": "Гуэренси",
-    "category": "103",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 103,
     "photoUrl": "./images/103.jpg"
@@ -802,7 +802,7 @@
   {
     "id": 104,
     "name": "Синг малт",
-    "category": "104",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 104,
     "photoUrl": "./images/104.jpg"
@@ -810,7 +810,7 @@
   {
     "id": 105,
     "name": "Симбол",
-    "category": "105",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 105,
     "photoUrl": "./images/105.jpg"
@@ -818,7 +818,7 @@
   {
     "id": 106,
     "name": "Каоликазали",
-    "category": "106",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 106,
     "photoUrl": "./images/106.jpg"
@@ -826,7 +826,7 @@
   {
     "id": 107,
     "name": "Принцесса суки",
-    "category": "107",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 107,
     "photoUrl": "./images/107.jpg"
@@ -834,7 +834,7 @@
   {
     "id": 108,
     "name": "Сансет мемори",
-    "category": "108",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 108,
     "photoUrl": "./images/108.jpg"
@@ -842,7 +842,7 @@
   {
     "id": 109,
     "name": "Лулаби",
-    "category": "109",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 109,
     "photoUrl": "./images/109.jpg"
@@ -850,7 +850,7 @@
   {
     "id": 110,
     "name": "Мон кер",
-    "category": "110",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 110,
     "photoUrl": "./images/110.jpg"
@@ -858,7 +858,7 @@
   {
     "id": 111,
     "name": "Каоликазали",
-    "category": "111",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 111,
     "photoUrl": "./images/111.jpg"
@@ -866,7 +866,7 @@
   {
     "id": 112,
     "name": "Голубой шторм",
-    "category": "112",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 112,
     "photoUrl": "./images/112.jpg"
@@ -874,7 +874,7 @@
   {
     "id": 113,
     "name": "Абдиель",
-    "category": "113",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 113,
     "photoUrl": "./images/113.jpg"
@@ -882,7 +882,7 @@
   {
     "id": 114,
     "name": "Вакана",
-    "category": "114",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 114,
     "photoUrl": "./images/114.jpg"
@@ -890,7 +890,7 @@
   {
     "id": 115,
     "name": "Дафна",
-    "category": "115",
+    "category": "Чайно гибридные",
     "description": "",
     "price": 115,
     "photoUrl": "./images/115.jpg"
@@ -898,7 +898,7 @@
   {
     "id": 116,
     "name": "Лавандовый букет",
-    "category": "116",
+    "category": "Японская селекция",
     "description": "",
     "price": 116,
     "photoUrl": "./images/116.jpg"
@@ -906,7 +906,7 @@
   {
     "id": 117,
     "name": "Мияби ча",
-    "category": "117",
+    "category": "Японская селекция",
     "description": "",
     "price": 117,
     "photoUrl": "./images/117.jpg"
@@ -914,7 +914,7 @@
   {
     "id": 118,
     "name": "Принцесса сакура",
-    "category": "118",
+    "category": "Японская селекция",
     "description": "",
     "price": 118,
     "photoUrl": "./images/118.jpg"
@@ -922,7 +922,7 @@
   {
     "id": 119,
     "name": "Чача",
-    "category": "119",
+    "category": "Японская селекция",
     "description": "",
     "price": 119,
     "photoUrl": "./images/119.jpg"
@@ -930,7 +930,7 @@
   {
     "id": 120,
     "name": "Франзуское платье",
-    "category": "120",
+    "category": "Японская селекция",
     "description": "",
     "price": 120,
     "photoUrl": "./images/120.jpg"
@@ -938,7 +938,7 @@
   {
     "id": 121,
     "name": "Эвента диор",
-    "category": "121",
+    "category": "Японская селекция",
     "description": "",
     "price": 121,
     "photoUrl": "./images/121.jpg"
@@ -946,7 +946,7 @@
   {
     "id": 122,
     "name": "Масора",
-    "category": "122",
+    "category": "Японская селекция",
     "description": "",
     "price": 122,
     "photoUrl": "./images/122.jpg"
@@ -954,7 +954,7 @@
   {
     "id": 123,
     "name": "Урара",
-    "category": "123",
+    "category": "Японская селекция",
     "description": "",
     "price": 123,
     "photoUrl": "./images/123.jpg"
@@ -962,7 +962,7 @@
   {
     "id": 124,
     "name": "Сола",
-    "category": "124",
+    "category": "Японская селекция",
     "description": "",
     "price": 124,
     "photoUrl": "./images/124.jpg"
@@ -970,7 +970,7 @@
   {
     "id": 125,
     "name": "Шахеризада",
-    "category": "125",
+    "category": "Японская селекция",
     "description": "",
     "price": 125,
     "photoUrl": "./images/125.jpg"
@@ -978,7 +978,7 @@
   {
     "id": 126,
     "name": "Ариадна",
-    "category": "126",
+    "category": "Японская селекция",
     "description": "",
     "price": 126,
     "photoUrl": "./images/126.jpg"
@@ -986,7 +986,7 @@
   {
     "id": 127,
     "name": "Тилия",
-    "category": "127",
+    "category": "Японская селекция",
     "description": "",
     "price": 127,
     "photoUrl": "./images/127.jpg"
@@ -994,7 +994,7 @@
   {
     "id": 128,
     "name": "Корона",
-    "category": "128",
+    "category": "Японская селекция",
     "description": "",
     "price": 128,
     "photoUrl": "./images/128.jpg"
@@ -1002,7 +1002,7 @@
   {
     "id": 129,
     "name": "Кинда блю",
-    "category": "129",
+    "category": "Японская селекция",
     "description": "",
     "price": 129,
     "photoUrl": "./images/129.jpg"
@@ -1010,7 +1010,7 @@
   {
     "id": 130,
     "name": "Мулен де галет",
-    "category": "130",
+    "category": "Японская селекция",
     "description": "",
     "price": 130,
     "photoUrl": "./images/130.jpg"
@@ -1018,7 +1018,7 @@
   {
     "id": 131,
     "name": "Май бьюти",
-    "category": "131",
+    "category": "Японская селекция",
     "description": "",
     "price": 131,
     "photoUrl": "./images/131.jpg"
@@ -1026,7 +1026,7 @@
   {
     "id": 132,
     "name": "Аубе",
-    "category": "132",
+    "category": "Японская селекция",
     "description": "",
     "price": 132,
     "photoUrl": "./images/132.jpg"
@@ -1034,7 +1034,7 @@
   {
     "id": 133,
     "name": "Психея",
-    "category": "133",
+    "category": "Японская селекция",
     "description": "",
     "price": 133,
     "photoUrl": "./images/133.jpg"
@@ -1042,7 +1042,7 @@
   {
     "id": 134,
     "name": "Индиан раффлс",
-    "category": "134",
+    "category": "Флорибунда",
     "description": "",
     "price": 134,
     "photoUrl": "./images/134.jpg"
@@ -1050,7 +1050,7 @@
   {
     "id": 135,
     "name": "Колор оф юпитер",
-    "category": "135",
+    "category": "Японская селекция",
     "description": "",
     "price": 135,
     "photoUrl": "./images/135.jpg"
@@ -1058,7 +1058,7 @@
   {
     "id": 136,
     "name": "Марк шагал",
-    "category": "136",
+    "category": "Флорибунда",
     "description": "",
     "price": 136,
     "photoUrl": "./images/136.jpg"
@@ -1066,7 +1066,7 @@
   {
     "id": 137,
     "name": "Минерва",
-    "category": "137",
+    "category": "Флорибунда",
     "description": "",
     "price": 137,
     "photoUrl": "./images/137.jpg"
@@ -1074,7 +1074,7 @@
   {
     "id": 138,
     "name": "Герцогиня Кристина",
-    "category": "138",
+    "category": "Флорибунда",
     "description": "",
     "price": 138,
     "photoUrl": "./images/138.jpg"
@@ -1082,7 +1082,7 @@
   {
     "id": 139,
     "name": "лав сонг",
-    "category": "139",
+    "category": "Флорибунда",
     "description": "",
     "price": 139,
     "photoUrl": "./images/139.jpg"
@@ -1090,7 +1090,7 @@
   {
     "id": 140,
     "name": "Стефания баронин",
-    "category": "140",
+    "category": "Флорибунда",
     "description": "",
     "price": 140,
     "photoUrl": "./images/140.jpg"
@@ -1098,7 +1098,7 @@
   {
     "id": 141,
     "name": "Терра лимбургия",
-    "category": "141",
+    "category": "Флорибунда",
     "description": "",
     "price": 141,
     "photoUrl": "./images/141.jpg"
@@ -1106,7 +1106,7 @@
   {
     "id": 142,
     "name": "Омаж барбара",
-    "category": "142",
+    "category": "Флорибунда",
     "description": "",
     "price": 142,
     "photoUrl": "./images/142.jpg"
@@ -1114,7 +1114,7 @@
   {
     "id": 143,
     "name": "Тьерри марк",
-    "category": "143",
+    "category": "Флорибунда",
     "description": "",
     "price": 143,
     "photoUrl": "./images/143.jpg"
@@ -1122,7 +1122,7 @@
   {
     "id": 144,
     "name": "Ред леонардо",
-    "category": "144",
+    "category": "Флорибунда",
     "description": "",
     "price": 144,
     "photoUrl": "./images/144.jpg"
@@ -1130,7 +1130,7 @@
   {
     "id": 145,
     "name": "Мишель друкен",
-    "category": "145",
+    "category": "Флорибунда",
     "description": "",
     "price": 145,
     "photoUrl": "./images/145.jpg"
@@ -1138,7 +1138,7 @@
   {
     "id": 146,
     "name": "Мокароза",
-    "category": "146",
+    "category": "Флорибунда",
     "description": "",
     "price": 146,
     "photoUrl": "./images/146.jpg"
@@ -1146,7 +1146,7 @@
   {
     "id": 147,
     "name": "Фиеста баблс",
-    "category": "147",
+    "category": "Спрей",
     "description": "",
     "price": 147,
     "photoUrl": "./images/147.jpg"
@@ -1154,7 +1154,7 @@
   {
     "id": 148,
     "name": "Корал баблс",
-    "category": "148",
+    "category": "Спрей",
     "description": "",
     "price": 148,
     "photoUrl": "./images/148.jpg"
@@ -1162,7 +1162,7 @@
   {
     "id": 149,
     "name": "4 свадьбы",
-    "category": "149",
+    "category": "Спрей",
     "description": "",
     "price": 149,
     "photoUrl": "./images/149.jpg"
@@ -1170,7 +1170,7 @@
   {
     "id": 150,
     "name": "Белла линда круелла",
-    "category": "150",
+    "category": "Спрей",
     "description": "",
     "price": 150,
     "photoUrl": "./images/150.jpg"
@@ -1178,7 +1178,7 @@
   {
     "id": 151,
     "name": "Фаер флоу спрей",
-    "category": "151",
+    "category": "Спрей",
     "description": "",
     "price": 151,
     "photoUrl": "./images/151.jpg"
@@ -1186,7 +1186,7 @@
   {
     "id": 152,
     "name": "Блоссом баблс",
-    "category": "152",
+    "category": "Спрей",
     "description": "",
     "price": 152,
     "photoUrl": "./images/152.jpg"
@@ -1194,7 +1194,7 @@
   {
     "id": 153,
     "name": "Федра",
-    "category": "153",
+    "category": "Шраб",
     "description": "",
     "price": 153,
     "photoUrl": "./images/153.jpg"
@@ -1202,7 +1202,7 @@
   {
     "id": 154,
     "name": "Перпл лодж",
-    "category": "154",
+    "category": "Шраб",
     "description": "",
     "price": 154,
     "photoUrl": "./images/154.jpg"
@@ -1210,7 +1210,7 @@
   {
     "id": 155,
     "name": "Королева Швеции",
-    "category": "155",
+    "category": "Шраб",
     "description": "",
     "price": 155,
     "photoUrl": "./images/155.jpg"
@@ -1218,7 +1218,7 @@
   {
     "id": 156,
     "name": "Зе веджвуд",
-    "category": "156",
+    "category": "Шраб",
     "description": "",
     "price": 156,
     "photoUrl": "./images/156.jpg"
@@ -1226,7 +1226,7 @@
   {
     "id": 157,
     "name": "Лавандовый букет",
-    "category": "157",
+    "category": "Плетистые",
     "description": "",
     "price": 157,
     "photoUrl": "./images/157.jpg"
