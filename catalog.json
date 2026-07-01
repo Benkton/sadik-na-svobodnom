@@ -708,7 +708,7 @@
     "name": "Фрутетто",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 92,
+    "price": 450,
     "photoUrl": "./images/92.jpg"
   },
   {
@@ -716,7 +716,7 @@
     "name": "Мандала",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 93,
+    "price": 450,
     "photoUrl": "./images/93.jpg"
   },
   {
@@ -724,7 +724,7 @@
     "name": "Унфоргетабле",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 94,
+    "price": 500,
     "photoUrl": "./images/94.jpg"
   },
   {
@@ -732,7 +732,7 @@
     "name": "Блек бакара",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 95,
+    "price": 450,
     "photoUrl": "./images/95.jpg"
   },
   {
@@ -740,7 +740,7 @@
     "name": "Вестминское аббатсво",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 96,
+    "price": 500,
     "photoUrl": "./images/96.jpg"
   },
   {
@@ -748,7 +748,7 @@
     "name": "Кампанелла",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 97,
+    "price": 500,
     "photoUrl": "./images/97.jpg"
   },
   {
@@ -756,7 +756,7 @@
     "name": "Симпли джорджиус",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 98,
+    "price": 450,
     "photoUrl": "./images/98.jpg"
   },
   {
@@ -764,7 +764,7 @@
     "name": "Эшли вайт",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 99,
+    "price": 500,
     "photoUrl": "./images/99.jpg"
   },
   {
@@ -780,7 +780,7 @@
     "name": "Мадемуазелл мейян",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 101,
+    "price": 450,
     "photoUrl": "./images/101.jpg"
   },
   {
@@ -788,7 +788,7 @@
     "name": "Ред майра",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 102,
+    "price": 450,
     "photoUrl": "./images/102.jpg"
   },
   {
@@ -796,7 +796,7 @@
     "name": "Гуэренси",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 103,
+    "price": 450,
     "photoUrl": "./images/103.jpg"
   },
   {
@@ -804,7 +804,7 @@
     "name": "Синг малт",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 104,
+    "price": 600,
     "photoUrl": "./images/104.jpg"
   },
   {
@@ -812,7 +812,7 @@
     "name": "Симбол",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 105,
+    "price": 450,
     "photoUrl": "./images/105.jpg"
   },
   {
@@ -828,7 +828,7 @@
     "name": "Принцесса суки",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 107,
+    "price": 500,
     "photoUrl": "./images/107.jpg"
   },
   {
@@ -836,7 +836,7 @@
     "name": "Сансет мемори",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 108,
+    "price": 500,
     "photoUrl": "./images/108.jpg"
   },
   {
@@ -844,7 +844,7 @@
     "name": "Лулаби",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 109,
+    "price": 450,
     "photoUrl": "./images/109.jpg"
   },
   {
@@ -852,7 +852,7 @@
     "name": "Мон кер",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 110,
+    "price": 500,
     "photoUrl": "./images/110.jpg"
   },
   {
@@ -868,7 +868,7 @@
     "name": "Голубой шторм",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 112,
+    "price": 500,
     "photoUrl": "./images/112.jpg"
   },
   {
@@ -876,7 +876,7 @@
     "name": "Абдиель",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 113,
+    "price": 500,
     "photoUrl": "./images/113.jpg"
   },
   {
@@ -884,7 +884,7 @@
     "name": "Вакана",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 114,
+    "price": 500,
     "photoUrl": "./images/114.jpg"
   },
   {
@@ -892,7 +892,7 @@
     "name": "Дафна",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 115,
+    "price": 500,
     "photoUrl": "./images/115.jpg"
   },
   {
@@ -900,7 +900,7 @@
     "name": "Лавандовый букет",
     "category": "Японская селекция",
     "description": "",
-    "price": 116,
+    "price": 500,
     "photoUrl": "./images/116.jpg"
   },
   {
@@ -908,7 +908,7 @@
     "name": "Мияби ча",
     "category": "Японская селекция",
     "description": "",
-    "price": 117,
+    "price": 500,
     "photoUrl": "./images/117.jpg"
   },
   {
@@ -916,7 +916,7 @@
     "name": "Принцесса сакура",
     "category": "Японская селекция",
     "description": "",
-    "price": 118,
+    "price": 500,
     "photoUrl": "./images/118.jpg"
   },
   {
@@ -924,7 +924,7 @@
     "name": "Чача",
     "category": "Японская селекция",
     "description": "",
-    "price": 119,
+    "price": 500,
     "photoUrl": "./images/119.jpg"
   },
   {
@@ -932,7 +932,7 @@
     "name": "Франзуское платье",
     "category": "Японская селекция",
     "description": "",
-    "price": 120,
+    "price": 500,
     "photoUrl": "./images/120.jpg"
   },
   {
@@ -940,7 +940,7 @@
     "name": "Эвента диор",
     "category": "Японская селекция",
     "description": "",
-    "price": 121,
+    "price": 500,
     "photoUrl": "./images/121.jpg"
   },
   {
@@ -956,7 +956,7 @@
     "name": "Урара",
     "category": "Японская селекция",
     "description": "",
-    "price": 123,
+    "price": 500,
     "photoUrl": "./images/123.jpg"
   },
   {
@@ -972,7 +972,7 @@
     "name": "Шахеризада",
     "category": "Японская селекция",
     "description": "",
-    "price": 125,
+    "price": 600,
     "photoUrl": "./images/125.jpg"
   },
   {
@@ -980,7 +980,7 @@
     "name": "Ариадна",
     "category": "Японская селекция",
     "description": "",
-    "price": 126,
+    "price": 600,
     "photoUrl": "./images/126.jpg"
   },
   {
@@ -988,7 +988,7 @@
     "name": "Тилия",
     "category": "Японская селекция",
     "description": "",
-    "price": 127,
+    "price": 600,
     "photoUrl": "./images/127.jpg"
   },
   {
@@ -996,7 +996,7 @@
     "name": "Корона",
     "category": "Японская селекция",
     "description": "",
-    "price": 128,
+    "price": 450,
     "photoUrl": "./images/128.jpg"
   },
   {
@@ -1004,7 +1004,7 @@
     "name": "Кинда блю",
     "category": "Японская селекция",
     "description": "",
-    "price": 129,
+    "price": 600,
     "photoUrl": "./images/129.jpg"
   },
   {
@@ -1012,7 +1012,7 @@
     "name": "Мулен де галет",
     "category": "Японская селекция",
     "description": "",
-    "price": 130,
+    "price": 600,
     "photoUrl": "./images/130.jpg"
   },
   {
@@ -1028,7 +1028,7 @@
     "name": "Аубе",
     "category": "Японская селекция",
     "description": "",
-    "price": 132,
+    "price": 550,
     "photoUrl": "./images/132.jpg"
   },
   {
@@ -1036,7 +1036,7 @@
     "name": "Психея",
     "category": "Японская селекция",
     "description": "",
-    "price": 133,
+    "price": 550,
     "photoUrl": "./images/133.jpg"
   },
   {
@@ -1052,7 +1052,7 @@
     "name": "Колор оф юпитер",
     "category": "Японская селекция",
     "description": "",
-    "price": 135,
+    "price": 600,
     "photoUrl": "./images/135.jpg"
   },
   {
@@ -1068,7 +1068,7 @@
     "name": "Минерва",
     "category": "Флорибунда",
     "description": "",
-    "price": 137,
+    "price": 450,
     "photoUrl": "./images/137.jpg"
   },
   {
@@ -1076,7 +1076,7 @@
     "name": "Герцогиня Кристина",
     "category": "Флорибунда",
     "description": "",
-    "price": 138,
+    "price": 450,
     "photoUrl": "./images/138.jpg"
   },
   {
@@ -1084,7 +1084,7 @@
     "name": "лав сонг",
     "category": "Флорибунда",
     "description": "",
-    "price": 139,
+    "price": 450,
     "photoUrl": "./images/139.jpg"
   },
   {
@@ -1092,7 +1092,7 @@
     "name": "Стефания баронин",
     "category": "Флорибунда",
     "description": "",
-    "price": 140,
+    "price": 500,
     "photoUrl": "./images/140.jpg"
   },
   {
@@ -1100,7 +1100,7 @@
     "name": "Терра лимбургия",
     "category": "Флорибунда",
     "description": "",
-    "price": 141,
+    "price": 450,
     "photoUrl": "./images/141.jpg"
   },
   {
@@ -1116,7 +1116,7 @@
     "name": "Тьерри марк",
     "category": "Флорибунда",
     "description": "",
-    "price": 143,
+    "price": 550,
     "photoUrl": "./images/143.jpg"
   },
   {
@@ -1124,7 +1124,7 @@
     "name": "Ред леонардо",
     "category": "Флорибунда",
     "description": "",
-    "price": 144,
+    "price": 500,
     "photoUrl": "./images/144.jpg"
   },
   {
@@ -1132,7 +1132,7 @@
     "name": "Мишель друкен",
     "category": "Флорибунда",
     "description": "",
-    "price": 145,
+    "price": 450,
     "photoUrl": "./images/145.jpg"
   },
   {
@@ -1140,7 +1140,7 @@
     "name": "Мокароза",
     "category": "Флорибунда",
     "description": "",
-    "price": 146,
+    "price": 600,
     "photoUrl": "./images/146.jpg"
   },
   {
@@ -1148,7 +1148,7 @@
     "name": "Фиеста баблс",
     "category": "Спрей",
     "description": "",
-    "price": 147,
+    "price": 450,
     "photoUrl": "./images/147.jpg"
   },
   {
@@ -1156,7 +1156,7 @@
     "name": "Корал баблс",
     "category": "Спрей",
     "description": "",
-    "price": 148,
+    "price": 450,
     "photoUrl": "./images/148.jpg"
   },
   {
@@ -1172,7 +1172,7 @@
     "name": "Белла линда круелла",
     "category": "Спрей",
     "description": "",
-    "price": 150,
+    "price": 450,
     "photoUrl": "./images/150.jpg"
   },
   {
@@ -1180,7 +1180,7 @@
     "name": "Фаер флоу спрей",
     "category": "Спрей",
     "description": "",
-    "price": 151,
+    "price": 450,
     "photoUrl": "./images/151.jpg"
   },
   {
@@ -1204,7 +1204,7 @@
     "name": "Перпл лодж",
     "category": "Шраб",
     "description": "",
-    "price": 154,
+    "price": 450,
     "photoUrl": "./images/154.jpg"
   },
   {
@@ -1212,7 +1212,7 @@
     "name": "Королева Швеции",
     "category": "Шраб",
     "description": "",
-    "price": 155,
+    "price": 450,
     "photoUrl": "./images/155.jpg"
   },
   {
@@ -1236,7 +1236,7 @@
     "name": "Джанет",
     "category": "Плетистые",
     "description": "",
-    "price": 158,
+    "price": 500,
     "photoUrl": "./images/158.jpg"
   },
   {
@@ -1244,7 +1244,7 @@
     "name": "Нахема",
     "category": "Плетистые",
     "description": "",
-    "price": 159,
+    "price": 500,
     "photoUrl": "./images/159.jpg"
   },
   {
@@ -1252,7 +1252,7 @@
     "name": "Бьенвеню",
     "category": "Плетистые",
     "description": "",
-    "price": 160,
+    "price": 500,
     "photoUrl": "./images/160.jpg"
   },
   {
@@ -1260,7 +1260,7 @@
     "name": "Флорентина",
     "category": "Плетистые",
     "description": "",
-    "price": 161,
+    "price": 500,
     "photoUrl": "./images/161.jpg"
   },
   {
@@ -1268,7 +1268,7 @@
     "name": "Пьер цикламен",
     "category": "Плетистые",
     "description": "",
-    "price": 162,
+    "price": 500,
     "photoUrl": "./images/162.jpg"
   },
   {
@@ -1276,7 +1276,7 @@
     "name": "Рейни Блю",
     "category": "Плетистые",
     "description": "",
-    "price": 163,
+    "price": 600,
     "photoUrl": "./images/163.jpg"
   },
   {
@@ -1284,7 +1284,7 @@
     "name": "Квиксилвер",
     "category": "Плетистые",
     "description": "",
-    "price": 164,
+    "price": 600,
     "photoUrl": "./images/164.jpg"
   },
   {
@@ -1292,7 +1292,7 @@
     "name": "Мусилак",
     "category": "Плетистые",
     "description": "",
-    "price": 165,
+    "price": 600,
     "photoUrl": "./images/165.jpg"
   },
   {
@@ -1308,7 +1308,7 @@
     "name": "Букет парфе",
     "category": "Мускусные",
     "description": "",
-    "price": 167,
+    "price": 450,
     "photoUrl": "./images/167.jpg"
   }
 ]
