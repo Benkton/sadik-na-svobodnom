@@ -588,7 +588,7 @@
     "name": "Алиби",
     "category": "Тюльпаны",
     "description": "",
-    "price": 77,
+    "price": 70,
     "photoUrl": "./images/77.jpg"
   },
   {
@@ -1196,7 +1196,7 @@
     "name": "Федра",
     "category": "Шраб",
     "description": "",
-    "price": 153,
+    "price": 550,
     "photoUrl": "./images/153.jpg"
   },
   {
@@ -1220,7 +1220,7 @@
     "name": "Зе веджвуд",
     "category": "Шраб",
     "description": "",
-    "price": 156,
+    "price": 450,
     "photoUrl": "./images/156.jpg"
   },
   {
@@ -1300,7 +1300,7 @@
     "name": "Ред Каскад",
     "category": "Почвопокровные",
     "description": "",
-    "price": 166,
+    "price": 500,
     "photoUrl": "./images/166.jpg"
   },
   {
@@ -1318,5 +1318,21 @@
     "description": "",
     "price": 50,
     "photoUrl": "./images/168.jpg"
+  },
+  {
+    "id": 169,
+    "name": "Смирнов",
+    "category": "Тюльпаны",
+    "description": "",
+    "price": 80,
+    "photoUrl": "./images/169.jpg"
+  },
+  {
+    "id": 170,
+    "name": "Норкчеп",
+    "category": "Тюльпаны",
+    "description": "",
+    "price": 70,
+    "photoUrl": "./images/170.jpg"
   }
 ]
