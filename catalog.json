@@ -306,17 +306,17 @@
   {
     "id": 41,
     "name": "Вайт ребер",
-    "category": "Тюльпаны",
+    "category": "Тюльпаны попугайные",
     "description": "",
-    "price": 41,
+    "price": 120,
     "photoUrl": "./images/41.jpg"
   },
   {
     "id": 42,
     "name": "Фроз найт",
-    "category": "Тюльпаны",
+    "category": "Тюльпаны попугайные",
     "description": "",
-    "price": 42,
+    "price": 120,
     "photoUrl": "./images/42.jpg"
   },
   {
@@ -332,7 +332,7 @@
     "name": "Мари джо",
     "category": "Тюльпаны",
     "description": "",
-    "price": 44,
+    "price": 70,
     "photoUrl": "./images/44.jpg"
   },
   {
@@ -628,7 +628,7 @@
     "name": "Оранж романтика",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 82,
+    "price": 500,
     "photoUrl": "./images/82.jpg"
   },
   {
@@ -636,7 +636,7 @@
     "name": "Тоффи",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 83,
+    "price": 450,
     "photoUrl": "./images/83.jpg"
   },
   {
@@ -644,7 +644,7 @@
     "name": "Испания",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 84,
+    "price": 450,
     "photoUrl": "./images/84.jpg"
   },
   {
@@ -652,7 +652,7 @@
     "name": "Травиата",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 85,
+    "price": 450,
     "photoUrl": "./images/85.jpg"
   },
   {
@@ -660,7 +660,7 @@
     "name": "Дольчетто",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 86,
+    "price": 500,
     "photoUrl": "./images/86.jpg"
   },
   {
@@ -668,7 +668,7 @@
     "name": "Пимс",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 87,
+    "price": 450,
     "photoUrl": "./images/87.jpg"
   },
   {
@@ -676,7 +676,7 @@
     "name": "Хартс",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 88,
+    "price": 450,
     "photoUrl": "./images/88.jpg"
   },
   {
@@ -684,7 +684,7 @@
     "name": "Шаде оф грей",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 89,
+    "price": 450,
     "photoUrl": "./images/89.jpg"
   },
   {
@@ -692,7 +692,7 @@
     "name": "Афродита",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 90,
+    "price": 450,
     "photoUrl": "./images/90.jpg"
   },
   {
@@ -700,7 +700,7 @@
     "name": "Джумилия",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 91,
+    "price": 450,
     "photoUrl": "./images/91.jpg"
   },
   {
@@ -820,7 +820,7 @@
     "name": "Каоликазали",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 106,
+    "price": 500,
     "photoUrl": "./images/106.jpg"
   },
   {
@@ -860,7 +860,7 @@
     "name": "Каоликазали",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 111,
+    "price": 500,
     "photoUrl": "./images/111.jpg"
   },
   {
@@ -948,7 +948,7 @@
     "name": "Масора",
     "category": "Японская селекция",
     "description": "",
-    "price": 122,
+    "price": 500,
     "photoUrl": "./images/122.jpg"
   },
   {
@@ -964,7 +964,7 @@
     "name": "Сола",
     "category": "Японская селекция",
     "description": "",
-    "price": 124,
+    "price": 500,
     "photoUrl": "./images/124.jpg"
   },
   {
@@ -1020,7 +1020,7 @@
     "name": "Май бьюти",
     "category": "Японская селекция",
     "description": "",
-    "price": 131,
+    "price": 500,
     "photoUrl": "./images/131.jpg"
   },
   {
@@ -1044,7 +1044,7 @@
     "name": "Индиан раффлс",
     "category": "Флорибунда",
     "description": "",
-    "price": 134,
+    "price": 500,
     "photoUrl": "./images/134.jpg"
   },
   {
@@ -1060,7 +1060,7 @@
     "name": "Марк шагал",
     "category": "Флорибунда",
     "description": "",
-    "price": 136,
+    "price": 450,
     "photoUrl": "./images/136.jpg"
   },
   {
@@ -1108,7 +1108,7 @@
     "name": "Омаж барбара",
     "category": "Флорибунда",
     "description": "",
-    "price": 142,
+    "price": 450,
     "photoUrl": "./images/142.jpg"
   },
   {
@@ -1164,7 +1164,7 @@
     "name": "4 свадьбы",
     "category": "Спрей",
     "description": "",
-    "price": 149,
+    "price": 450,
     "photoUrl": "./images/149.jpg"
   },
   {
@@ -1188,7 +1188,7 @@
     "name": "Блоссом баблс",
     "category": "Спрей",
     "description": "",
-    "price": 152,
+    "price": 450,
     "photoUrl": "./images/152.jpg"
   },
   {
@@ -1310,5 +1310,13 @@
     "description": "",
     "price": 450,
     "photoUrl": "./images/167.jpg"
+  },
+  {
+    "id": 168,
+    "name": "Жанна дарк",
+    "category": "Крокусы",
+    "description": "",
+    "price": 50,
+    "photoUrl": "./images/168.jpg"
   }
 ]
