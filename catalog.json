@@ -82,9 +82,9 @@
   {
     "id": 13,
     "name": "Тахити",
-    "category": "Мускари",
+    "category": "Нарциссы",
     "description": "",
-    "price": 13,
+    "price": 100,
     "photoUrl": "./images/13.jpg"
   },
   {
@@ -772,7 +772,7 @@
     "name": "Джалита",
     "category": "Чайно гибридные",
     "description": "",
-    "price": 100,
+    "price": 450,
     "photoUrl": "./images/100.jpg"
   },
   {
@@ -1334,5 +1334,309 @@
     "description": "",
     "price": 70,
     "photoUrl": "./images/170.jpg"
+  },
+  {
+    "id": 171,
+    "name": "Шираюке",
+    "category": "1",
+    "description": "",
+    "price": 800,
+    "photoUrl": "./images/171.jpg"
+  },
+  {
+    "id": 172,
+    "name": "Кардинал Вышинский",
+    "category": "1",
+    "description": "",
+    "price": 800,
+    "photoUrl": "./images/172.jpg"
+  },
+  {
+    "id": 173,
+    "name": "Кардинал руж",
+    "category": "1",
+    "description": "",
+    "price": 800,
+    "photoUrl": "./images/173.jpg"
+  },
+  {
+    "id": 174,
+    "name": "Раджа",
+    "category": "1",
+    "description": "",
+    "price": 800,
+    "photoUrl": "./images/174.jpg"
+  },
+  {
+    "id": 175,
+    "name": "Олсон",
+    "category": "1",
+    "description": "",
+    "price": 800,
+    "photoUrl": "./images/175.jpg"
+  },
+  {
+    "id": 176,
+    "name": "Вероника чойс",
+    "category": "Махровые",
+    "description": "",
+    "price": 1000,
+    "photoUrl": "./images/176.jpg"
+  },
+  {
+    "id": 177,
+    "name": "Мисс спенсер",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/177.jpg"
+  },
+  {
+    "id": 178,
+    "name": "Полиш Спирит",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/178.jpg"
+  },
+  {
+    "id": 179,
+    "name": "Пинк фентези",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/179.jpg"
+  },
+  {
+    "id": 180,
+    "name": "Асао",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/180.jpg"
+  },
+  {
+    "id": 181,
+    "name": "Мармори",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/181.jpg"
+  },
+  {
+    "id": 182,
+    "name": "Мари клер",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/182.jpg"
+  },
+  {
+    "id": 183,
+    "name": "Вестерплатте",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/183.jpg"
+  },
+  {
+    "id": 184,
+    "name": "Веноза",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/184.jpg"
+  },
+  {
+    "id": 185,
+    "name": "Хай",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/185.jpg"
+  },
+  {
+    "id": 186,
+    "name": "Силен",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/186.jpg"
+  },
+  {
+    "id": 187,
+    "name": "Лагуна",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/187.jpg"
+  },
+  {
+    "id": 188,
+    "name": "Радар любви",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/188.jpg"
+  },
+  {
+    "id": 189,
+    "name": "Хай",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/189.jpg"
+  },
+  {
+    "id": 190,
+    "name": "Пиилу",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/190.jpg"
+  },
+  {
+    "id": 191,
+    "name": "Мультиблю",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/191.jpg"
+  },
+  {
+    "id": 192,
+    "name": "Кайзер",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/192.jpg"
+  },
+  {
+    "id": 193,
+    "name": "Дюшес Эдинбург",
+    "category": "1",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/193.jpg"
+  },
+  {
+    "id": 194,
+    "name": "Саммер лав",
+    "category": "Гортензии метельчатые",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/194.jpg"
+  },
+  {
+    "id": 195,
+    "name": "Мохито",
+    "category": "Гортензии метельчатые",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/195.jpg"
+  },
+  {
+    "id": 196,
+    "name": "Жемжкчина фестиваля",
+    "category": "Гортензии метельчатые",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/196.jpg"
+  },
+  {
+    "id": 197,
+    "name": "Пинк промис",
+    "category": "Гортензии метельчатые",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/197.jpg"
+  },
+  {
+    "id": 198,
+    "name": "Графити",
+    "category": "Гортензии метельчатые",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/198.jpg"
+  },
+  {
+    "id": 199,
+    "name": "Краса лескова",
+    "category": "Гортензии метельчатые",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/199.jpg"
+  },
+  {
+    "id": 200,
+    "name": "Лидия",
+    "category": "Гортензии метельчатые",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/200.jpg"
+  },
+  {
+    "id": 201,
+    "name": "Петит черри можно в кашпо",
+    "category": "Гортензии метельчатые",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/201.jpg"
+  },
+  {
+    "id": 202,
+    "name": "Коттон крем",
+    "category": "Гортензии метельчатые",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/202.jpg"
+  },
+  {
+    "id": 203,
+    "name": "Харис сувенир",
+    "category": "Гортензии метельчатые",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/203.jpg"
+  },
+  {
+    "id": 204,
+    "name": "Меджикал везувио",
+    "category": "Гортензии метельчатые",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/204.jpg"
+  },
+  {
+    "id": 205,
+    "name": "Саммер сноу",
+    "category": "Гортензии метельчатые",
+    "description": "",
+    "price": 1,
+    "photoUrl": "./images/205.jpg"
+  },
+  {
+    "id": 206,
+    "name": "Пикоти",
+    "category": "1",
+    "description": "",
+    "price": 800,
+    "photoUrl": "./images/206.jpg"
+  },
+  {
+    "id": 207,
+    "name": "Пурпур плена элеганс",
+    "category": "1",
+    "description": "",
+    "price": 1000,
+    "photoUrl": "./images/207.jpg"
+  },
+  {
+    "id": 208,
+    "name": "Дороти толвер",
+    "category": "1",
+    "description": "",
+    "price": 800,
+    "photoUrl": "./images/208.jpg"
   }
 ]
