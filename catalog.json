@@ -1714,9 +1714,9 @@
   {
     "id": 219,
     "name": "Боскобель Англия",
-    "category": "219",
+    "category": "Шраб",
     "description": "",
-    "price": 219,
+    "price": 550,
     "photoUrl": "./images/219.jpg"
   },
   {
@@ -1770,17 +1770,17 @@
   {
     "id": 226,
     "name": "Лувиана",
-    "category": "226",
+    "category": "Спрей",
     "description": "",
-    "price": 226,
+    "price": 550,
     "photoUrl": "./images/226.jpg"
   },
   {
     "id": 227,
     "name": "Грин айс",
-    "category": "227",
+    "category": "Спрей",
     "description": "",
-    "price": 227,
+    "price": 550,
     "photoUrl": "./images/227.jpg"
   },
   {
@@ -1850,7 +1850,7 @@
   {
     "id": 236,
     "name": "Анри де сидане франция",
-    "category": "236",
+    "category": "Франция",
     "description": "",
     "price": 236,
     "photoUrl": "./images/236.jpg"
