@@ -1714,9 +1714,9 @@
   {
     "id": 219,
     "name": "Боскобель Англия",
-    "category": "Шраб",
+    "category": "219",
     "description": "",
-    "price": 550,
+    "price": 219,
     "photoUrl": "./images/219.jpg"
   },
   {
@@ -1734,14 +1734,6 @@
     "description": "",
     "price": 550,
     "photoUrl": "./images/221.jpg"
-  },
-  {
-    "id": 222,
-    "name": "222",
-    "category": "222",
-    "description": "",
-    "price": 222,
-    "photoUrl": "./images/222.jpg"
   },
   {
     "id": 223,
@@ -1770,7 +1762,7 @@
   {
     "id": 226,
     "name": "Лувиана",
-    "category": "Спрей",
+    "category": "226",
     "description": "",
     "price": 550,
     "photoUrl": "./images/226.jpg"
@@ -1778,7 +1770,7 @@
   {
     "id": 227,
     "name": "Грин айс",
-    "category": "Спрей",
+    "category": "227",
     "description": "",
     "price": 550,
     "photoUrl": "./images/227.jpg"
@@ -1836,7 +1828,7 @@
     "name": "Альба",
     "category": "Почвопокровная",
     "description": "",
-    "price": 234,
+    "price": 550,
     "photoUrl": "./images/234.jpg"
   },
   {
@@ -1850,7 +1842,7 @@
   {
     "id": 236,
     "name": "Анри де сидане франция",
-    "category": "Франция",
+    "category": "236",
     "description": "",
     "price": 236,
     "photoUrl": "./images/236.jpg"
@@ -1860,7 +1852,7 @@
     "name": "Бель де сегоз",
     "category": "Франция",
     "description": "",
-    "price": 237,
+    "price": 550,
     "photoUrl": "./images/237.jpg"
   },
   {
@@ -1868,7 +1860,7 @@
     "name": "Веласкес",
     "category": "Франция",
     "description": "",
-    "price": 238,
+    "price": 550,
     "photoUrl": "./images/238.jpg"
   },
   {
@@ -1884,7 +1876,7 @@
     "name": "Арроу фолиес",
     "category": "Спрей",
     "description": "",
-    "price": 240,
+    "price": 550,
     "photoUrl": "./images/240.jpg"
   },
   {
