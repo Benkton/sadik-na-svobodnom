@@ -1894,5 +1894,317 @@
     "description": "",
     "price": 550,
     "photoUrl": "./images/242.jpg"
+  },
+  {
+    "id": 244,
+    "name": "Вайт шифон",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/244.jpg"
+  },
+  {
+    "id": 245,
+    "name": "Чайна шифон",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/245.jpg"
+  },
+  {
+    "id": 246,
+    "name": "Старберст",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/246.jpg"
+  },
+  {
+    "id": 247,
+    "name": "Специозус",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/247.jpg"
+  },
+  {
+    "id": 248,
+    "name": "Валентина",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/248.jpg"
+  },
+  {
+    "id": 249,
+    "name": "Лавандер шифон",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/249.jpg"
+  },
+  {
+    "id": 250,
+    "name": "Пинк шифон",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/250.jpg"
+  },
+  {
+    "id": 251,
+    "name": "Ван гог",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/251.jpg"
+  },
+  {
+    "id": 252,
+    "name": "Кабаре пастель",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/252.jpg"
+  },
+  {
+    "id": 253,
+    "name": "Дюк де брабант",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/253.jpg"
+  },
+  {
+    "id": 254,
+    "name": "Блю шифон",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/254.jpg"
+  },
+  {
+    "id": 255,
+    "name": "Манжета шифон",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/255.jpg"
+  },
+  {
+    "id": 256,
+    "name": "Кабере ред",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/256.jpg"
+  },
+  {
+    "id": 257,
+    "name": "Люси",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/257.jpg"
+  },
+  {
+    "id": 258,
+    "name": "Арденс",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/258.jpg"
+  },
+  {
+    "id": 259,
+    "name": "Адмирал девей",
+    "category": "Гибискус древовидный",
+    "description": "",
+    "price": 450,
+    "photoUrl": "./images/259.jpg"
+  },
+  {
+    "id": 260,
+    "name": "Марианна фон вайцзек кер",
+    "category": "Рододендрон вечно зелёный",
+    "description": "",
+    "price": 800,
+    "photoUrl": "./images/260.jpg"
+  },
+  {
+    "id": 261,
+    "name": "Мадам массон",
+    "category": "Рододендрон вечно зелёный",
+    "description": "",
+    "price": 800,
+    "photoUrl": "./images/261.jpg"
+  },
+  {
+    "id": 262,
+    "name": "Азурро",
+    "category": "Рододендрон вечно зелёный",
+    "description": "",
+    "price": 800,
+    "photoUrl": "./images/262.jpg"
+  },
+  {
+    "id": 263,
+    "name": "Нова зембла",
+    "category": "Рододендрон вечно зелёный",
+    "description": "",
+    "price": 800,
+    "photoUrl": "./images/263.jpg"
+  },
+  {
+    "id": 264,
+    "name": "Пи джей",
+    "category": "Рододендрон вечно зелёный",
+    "description": "",
+    "price": 800,
+    "photoUrl": "./images/264.jpg"
+  },
+  {
+    "id": 265,
+    "name": "Симпатия",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/265.jpg"
+  },
+  {
+    "id": 266,
+    "name": "Вестерленд",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/266.jpg"
+  },
+  {
+    "id": 267,
+    "name": "Казино",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/267.jpg"
+  },
+  {
+    "id": 268,
+    "name": "Эрик таберли",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/268.jpg"
+  },
+  {
+    "id": 269,
+    "name": "Барок",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/269.jpg"
+  },
+  {
+    "id": 270,
+    "name": "Эбав олл",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/270.jpg"
+  },
+  {
+    "id": 271,
+    "name": "Алибаба",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/271.jpg"
+  },
+  {
+    "id": 272,
+    "name": "Пиппин",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/272.jpg"
+  },
+  {
+    "id": 273,
+    "name": "Лавиния",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/273.jpg"
+  },
+  {
+    "id": 274,
+    "name": "Диди бриджиотер",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/274.jpg"
+  },
+  {
+    "id": 275,
+    "name": "Алоха",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/275.jpg"
+  },
+  {
+    "id": 276,
+    "name": "Блю мун",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/276.jpg"
+  },
+  {
+    "id": 277,
+    "name": "Пич мельба",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/277.jpg"
+  },
+  {
+    "id": 278,
+    "name": "Силуэтта",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/278.jpg"
+  },
+  {
+    "id": 279,
+    "name": "Аляска",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/279.jpg"
+  },
+  {
+    "id": 280,
+    "name": "Плетистая вельвет стар",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/280.jpg"
+  },
+  {
+    "id": 281,
+    "name": "Салма эс се",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/281.jpg"
+  },
+  {
+    "id": 282,
+    "name": "Антик",
+    "category": "Плетистые",
+    "description": "",
+    "price": 550,
+    "photoUrl": "./images/282.jpg"
   }
 ]
