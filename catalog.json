@@ -2526,5 +2526,157 @@
     "description": "",
     "price": 450,
     "photoUrl": "./images/322.jpg"
+  },
+  {
+    "id": 323,
+    "name": "Чудо вишня",
+    "category": "Гибрид",
+    "description": "гибрид черешни и вишни крупная10гр сладкая почти без кислинки. 4м.ранняя",
+    "price": 600,
+    "photoUrl": "./images/323.jpg"
+  },
+  {
+    "id": 324,
+    "name": "Шоколадница",
+    "category": "Вишня",
+    "description": "самоплодная 2,5 м вторая половина июля, 3-4 гр вес 1 ягоды",
+    "price": 600,
+    "photoUrl": "./images/324.jpg"
+  },
+  {
+    "id": 325,
+    "name": "Призвание",
+    "category": "Вишня",
+    "description": "2,5м кисло сладкая ягода 5-6 гр, середина июля.",
+    "price": 600,
+    "photoUrl": "./images/325.jpg"
+  },
+  {
+    "id": 326,
+    "name": "Вильямс",
+    "category": "Груша",
+    "description": "конец августа 150-200гр ,4м",
+    "price": 600,
+    "photoUrl": "./images/326.jpg"
+  },
+  {
+    "id": 327,
+    "name": "Дюк Добрыня",
+    "category": "Гибрид",
+    "description": "черешня с вишней гибрид\nвысота1,6-1,8 . самоплодный\n 7-8 гр.",
+    "price": 600,
+    "photoUrl": "./images/327.jpg"
+  },
+  {
+    "id": 328,
+    "name": "Биг топ",
+    "category": "Нектарин",
+    "description": "высота2-4 м, самоплодный , 200гр конец июля начало августа",
+    "price": 600,
+    "photoUrl": "./images/328.jpg"
+  },
+  {
+    "id": 329,
+    "name": "Свит леди",
+    "category": "1",
+    "description": "200-300 гр, самоплодный август 3-4 м",
+    "price": 600,
+    "photoUrl": "./images/329.jpg"
+  },
+  {
+    "id": 330,
+    "name": "Роял ли",
+    "category": "Персик",
+    "description": "поздний самоплодный высота 3 м. 200-300гр",
+    "price": 600,
+    "photoUrl": "./images/330.jpg"
+  },
+  {
+    "id": 331,
+    "name": "Спринг леди",
+    "category": "Персик",
+    "description": "самоплодный ранний 150гр от 2,5 до 3,5м",
+    "price": 600,
+    "photoUrl": "./images/331.jpg"
+  },
+  {
+    "id": 332,
+    "name": "Эрли Квин",
+    "category": "Слива",
+    "description": "50-80 гр диплоидная 2 половина июля",
+    "price": 600,
+    "photoUrl": "./images/332.jpg"
+  },
+  {
+    "id": 333,
+    "name": "Свит хард",
+    "category": "Черешня",
+    "description": "самоплодная 9-12гр 3-4м плодоносит конец июля",
+    "price": 600,
+    "photoUrl": "./images/333.jpg"
+  },
+  {
+    "id": 334,
+    "name": "Ипуть",
+    "category": "Черешня",
+    "description": "ранний 5-8 грамм нужен опылитель(ревна) сочная ягода 4м",
+    "price": 600,
+    "photoUrl": "./images/334.jpg"
+  },
+  {
+    "id": 335,
+    "name": "Ревна",
+    "category": "Черешня",
+    "description": "5-8 гр плодоношение июль 4м .",
+    "price": 600,
+    "photoUrl": "./images/335.jpg"
+  },
+  {
+    "id": 336,
+    "name": "Шарафуга Вельвет Санрайз",
+    "category": "Гибрид",
+    "description": "гибрид сливы персик и абрикос высота 100-150гр 2,5-3, 5 м высота. косточка легко отделяется.",
+    "price": 600,
+    "photoUrl": "./images/336.jpg"
+  },
+  {
+    "id": 337,
+    "name": "Конфетная",
+    "category": "Яблоня",
+    "description": "высота 4 м ранняя сладкая. Частично опыл.",
+    "price": 600,
+    "photoUrl": "./images/337.jpg"
+  },
+  {
+    "id": 338,
+    "name": "Квин мери",
+    "category": "Колонная черешня",
+    "description": "2м самоплодная 10-13 гр",
+    "price": 600,
+    "photoUrl": "./images/338.jpg"
+  },
+  {
+    "id": 339,
+    "name": "Арбат",
+    "category": "Колонная яблоня",
+    "description": "1,5 -2м . 100гр.част самоплодная",
+    "price": 600,
+    "photoUrl": "./images/339.jpg"
+  },
+  {
+    "id": 340,
+    "name": "Нью Джерси",
+    "category": "Абрикос",
+    "description": "ранний, самоплодный, высота 4м, 70-90гр 1плод",
+    "price": 600,
+    "photoUrl": "./images/340.jpg"
+  },
+  {
+    "id": 341,
+    "name": "Шалах",
+    "category": "Абрикос",
+    "description": "сладкий 3-4м среднеранний, частично самоплодный.",
+    "price": 600,
+    "photoUrl": "./images/341.jpg"
   }
 ]
