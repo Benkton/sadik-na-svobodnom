@@ -1228,7 +1228,7 @@
     "name": "Лавандовый букет",
     "category": "Плетистые",
     "description": "",
-    "price": 157,
+    "price": 500,
     "photoUrl": "./images/157.jpg"
   },
   {
@@ -2578,7 +2578,7 @@
   {
     "id": 329,
     "name": "Свит леди",
-    "category": "1",
+    "category": "Нектарин",
     "description": "200-300 гр, самоплодный август 3-4 м",
     "price": 600,
     "photoUrl": "./images/329.jpg"
