@@ -2678,5 +2678,117 @@
     "description": "сладкий 3-4м среднеранний, частично самоплодный.",
     "price": 600,
     "photoUrl": "./images/341.jpg"
+  },
+  {
+    "id": 342,
+    "name": "Белый лебедь",
+    "category": "Персик",
+    "description": "",
+    "price": 700,
+    "photoUrl": "./images/342.jpg"
+  },
+  {
+    "id": 343,
+    "name": "Гигант ред",
+    "category": "Черешня",
+    "description": "",
+    "price": 700,
+    "photoUrl": "./images/343.jpg"
+  },
+  {
+    "id": 344,
+    "name": "Черный принц",
+    "category": "Абрикос",
+    "description": "",
+    "price": 700,
+    "photoUrl": "./images/344.jpg"
+  },
+  {
+    "id": 345,
+    "name": "Карлик тамарис",
+    "category": "Вишня",
+    "description": "",
+    "price": 700,
+    "photoUrl": "./images/345.jpg"
+  },
+  {
+    "id": 346,
+    "name": "Посол мира",
+    "category": "Персик",
+    "description": "",
+    "price": 700,
+    "photoUrl": "./images/346.jpg"
+  },
+  {
+    "id": 347,
+    "name": "Белла рояль",
+    "category": "Шарафуга",
+    "description": "",
+    "price": 700,
+    "photoUrl": "./images/347.jpg"
+  },
+  {
+    "id": 348,
+    "name": "Белла голд",
+    "category": "Шарафуга",
+    "description": "",
+    "price": 700,
+    "photoUrl": "./images/348.jpg"
+  },
+  {
+    "id": 349,
+    "name": "Свит Трит",
+    "category": "Гибрид",
+    "description": "",
+    "price": 1200,
+    "photoUrl": "./images/349.jpg"
+  },
+  {
+    "id": 350,
+    "name": "Флауэр Суприм",
+    "category": "Гибрид",
+    "description": "",
+    "price": 1200,
+    "photoUrl": "./images/350.jpg"
+  },
+  {
+    "id": 351,
+    "name": "Дапл Данди",
+    "category": "Гибрид",
+    "description": "",
+    "price": 1200,
+    "photoUrl": "./images/351.jpg"
+  },
+  {
+    "id": 352,
+    "name": "Флауэр финал",
+    "category": "Гибрид",
+    "description": "",
+    "price": 1200,
+    "photoUrl": "./images/352.jpg"
+  },
+  {
+    "id": 353,
+    "name": "Бета",
+    "category": "Гибрид",
+    "description": "",
+    "price": 1200,
+    "photoUrl": "./images/353.jpg"
+  },
+  {
+    "id": 354,
+    "name": "Шинсейки",
+    "category": "Груша",
+    "description": "",
+    "price": 1500,
+    "photoUrl": "./images/354.jpg"
+  },
+  {
+    "id": 355,
+    "name": "Сердце дракона",
+    "category": "Яблоня",
+    "description": "",
+    "price": 1700,
+    "photoUrl": "./images/355.jpg"
   }
 ]
